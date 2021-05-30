@@ -1,5 +1,7 @@
 # jogo-da-cobrinha
+
 Recriando o jogo da cobrinha
+
 Projeto do Bootcamp HTML Developer Digital Innovation One
 
 ## Referências
